@@ -24,6 +24,8 @@ CONFIG_PIN_TO_RCP_TX=4
 CONFIG_PIN_TO_RCP_RX=5
 # end of Board Configuration
 
+CONFIG_OPENTHREAD_MLE_MAX_CHILDREN=32  // max-32
+CONFIG_OPENTHREAD_NUM_MESSAGE_BUFFERS=128  // 
 
 #
 # Thread Operational Dataset
