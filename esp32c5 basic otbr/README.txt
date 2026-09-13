@@ -7,3 +7,6 @@ Open IDF Terminal
 idf.py set-target ESP32C5
 Build
 Flash
+
+Door een wijziging in ot-br kun je niet meer je eigen dataset invoeren. Via web-gui form Network. 
+wel via ot dataset pskc 445f2b5ca6f2a93a55ce570a70efeecb   de key invoeren
